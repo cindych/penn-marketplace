@@ -51,59 +51,20 @@ Furthermore, there are a variety of platforms and websites that students usually
   * A seller accepts their bid on an item
 * Users have the ability to delete their account
 
-
-## Project Folder Structure
-    .
-    ├── backend
-    │   ├── middleware                         
-    │   ├── models                            
-    │   ├── routes                            
-    │   ├── package.json
-    │   ├── server.js
-    ├── frontend
-    │   ├── public
-    │   ├── src
-    │   │   ├── login
-    │   │   │   ├── components
-    │   │   │   ├── data
-    │   │   │   ├── images
-    │   │   ├── account
-    │   │   │   ├── assets
-    │   │   │   ├── components
-    │   │   ├── buyer
-    │   │   │   ├── assets
-    │   │   │   ├── components
-    │   │   │   ├── styles
-    │   │   ├── homepage
-    │   │   │   ├── assets
-    │   │   │   ├── components
-    │   │   │   ├── styles
-    │   │   ├── searchbar
-    │   │   │     ├── assets
-    │   │   │     ├── components
-    │   │   ├── seller
-    │   │   │     ├── assets
-    │   │   │     ├── components
-    │   │   │     ├── styles
-    │   │   ├── App.js
-    │   │   ├── index.js
-    │   ├── package.json
-    └── README.md
-    
-  ## How to Run the Project
-  ```
-  git clone the-repository
-  cd backend
-  npm install
-  npm start
-  cd frontend
-  npm install
-  npm start
-  ```
-  The project should run on localhost:3000 and the server is ran on localhost:8080
+## How to Run the Project
+```
+git clone the-repository
+cd backend
+npm install
+npm start
+cd frontend
+npm install
+npm start
+```
+The project should run on localhost:3000 and the server is ran on localhost:8080
   
-  ## Technologies
-  The project was built with the following technologies:
+## Technologies
+The project was built with the following technologies:
 -   MongoDB
 -   Mongoose
 -   Express.js
@@ -135,3 +96,9 @@ API Documentation: https://app.swaggerhub.com/apis/cis350-penn-mp/CIS350-Team22-
 | Damon Luong   | [damon-luong](https://github.com/damon-luong)        |
 | Fei Liu   | [FeiLCube](https://github.com/FeiLCube)        |
 
+## Screenshots
+![2](https://user-images.githubusercontent.com/78625079/188290749-656127df-e9d0-41e2-a528-109d9a872e38.png)
+![3](https://user-images.githubusercontent.com/78625079/188290758-41c1c59a-8dcd-4614-b704-be589e80f17c.png)
+![1](https://user-images.githubusercontent.com/78625079/188290723-31451813-29dc-4165-840a-373418ae3dd0.png)
+![4](https://user-images.githubusercontent.com/78625079/188290761-63ff23d8-91c5-4696-b4cb-742db1077038.png)
+![5](https://user-images.githubusercontent.com/78625079/188290765-3100dc84-310b-4971-81d3-697ac0544f4b.png)
